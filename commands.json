@@ -29,6 +29,7 @@
       "flag A3",
       "clear H7",
       "clear G8",
-      "flag H8"
+      "flag H8",
+      "end"
    ]
 }
