@@ -1,3 +1,11 @@
 {
-   "commands": ["clear A1", "clear C6", "flag E7", "flag A4", "flag A8"]
+   "commands": [
+      "clear A1",
+      "clear C6",
+      "flag E7",
+      "flag A4",
+      "flag A8",
+      "clear E8",
+      "clear D2"
+   ]
 }
